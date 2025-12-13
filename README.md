@@ -1,22 +1,51 @@
-# 👋Hello there, I am Zylcee!
+## 🌿 Hi, I’m Zylcee 👋
 
-✨ Information Technology Student | Exploring web & building cool stuff
+I’m an **Information Technology student** at **Caraga State University – Cabadbaran Campus** who enjoys learning how websites and systems work from the ground up.  
+I like turning ideas into simple, functional, and user-friendly projects while improving my design and coding skills.
 
-📍 Caraga State University Cabadbaran Campus
-
----
-
-## 💻 About Me
-I'm passionate about coding, open source, and learning new technologies.
-
-- 🔭 I’m currently working on: Web Development  
-- 🌱 I’m learning: Mobile Development  
-- 🏐 Aside from coding, I love playing volleyball  
-- 🎧 Listening to music helps me stay productive  
+I’m especially interested in **web development**, **mobile development**, and building projects that simulate real-world use.
 
 ---
 
-## 🛠️ Tech Stack
+## 🌱 About Me
+
+- 🎓 BS Information Technology student  
+- 🏫 Caraga State University – Cabadbaran Campus  
+- 💻 Interested in web and mobile development  
+- 🎨 Enjoy learning UI/UX and layout design  
+- 🏐 Loves playing volleyball  
+- 🎧 Music helps me stay focused while coding  
+
+---
+
+## 📌 Notable Projects
+
+- **Personal Portfolio Website**  
+  A simple web portfolio showcasing my skills and projects using HTML, CSS, and JavaScript.
+
+- **Centralized Online Marketplace (Concept Project)**  
+  A system concept involving users, sellers, admin management, and basic system flow.
+
+- **Java-Based System Projects**  
+  Academic projects focused on logic, structure, and system functionality.
+
+- **Flutter Practice Apps**  
+  Beginner mobile apps created to explore Flutter and Dart.
+
+---
+
+## 🎯 Current Focus
+
+- Improving frontend design and page layouts  
+- Writing cleaner and more organized code  
+- Gaining confidence in presenting and documenting projects  
+- Exploring mobile development using Flutter  
+
+---
+
+⭐ *This profile will continue to grow as I learn, build, and improve.*
+
+## 🛠️ Technologies I Use
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
