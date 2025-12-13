@@ -1,4 +1,4 @@
-## 🌿 Hi, I’m Zylcee 👋
+##  Hi, I’m Zylcee 👋
 
 I’m an **Information Technology student** at **Caraga State University – Cabadbaran Campus** who enjoys learning how websites and systems work from the ground up.  
 I like turning ideas into simple, functional, and user-friendly projects while improving my design and coding skills.
@@ -7,7 +7,7 @@ I’m especially interested in **web development**, **mobile development**, and 
 
 ---
 
-## 🌱 About Me
+## 🎓 About Me
 
 - 🎓 BS Information Technology student  
 - 🏫 Caraga State University – Cabadbaran Campus  
@@ -43,8 +43,6 @@ I’m especially interested in **web development**, **mobile development**, and 
 
 ---
 
-⭐ *This profile will continue to grow as I learn, build, and improve.*
-
 ## 🛠️ Technologies I Use
 
 ### 🌐 Web Development
@@ -71,3 +69,6 @@ I’m especially interested in **web development**, **mobile development**, and 
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZYLCEE&show_icons=true&theme=radical)
+
+
+⭐ *This profile will continue to grow as I learn, build, and improve.*
