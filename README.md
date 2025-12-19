@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Profile Banner" width="100%" />
+</p>
+
+
 ##  Hi, I’m Zylcee 👋
 
 I’m an **Information Technology student** at **Caraga State University – Cabadbaran Campus** who enjoys learning how websites and systems work from the ground up.  
